@@ -1,9 +1,9 @@
 # blackjack game
 '''
 Game logic:
-The game logic for our simplified version of Blackjack is as follows. 
+The game logic for my version of Blackjack is as follows. 
 The player and the dealer are each dealt two cards initially with one of the dealer's cards 
-being dealt faced down (his hole card, marked XX in my text version). 
+being marked XX in my text version (his hole card). 
 The player chooses to "hit" his hand by dealing him another card.
 If, at any point, the value of the player's hand exceeds 21, the player is "busted" and 
 loses immediately. At any point prior to busting, the player may "stand" and 
